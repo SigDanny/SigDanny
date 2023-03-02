@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dani
 - 👀 I’m interested in ✨Memes✨
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
